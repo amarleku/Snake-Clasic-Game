@@ -1,4 +1,1 @@
-----Welcome
-
-
-<p>NGX install link: </p>
+<h1>Test</h1>
