@@ -1,6 +1,11 @@
 import { Component } from '@angular/core';
 import { BestScoreManager } from './app.storage.service';
-import { CONTROLS, COLORS, BOARD_SIZE, GAME_MODES } from './app.constants';
+import { 
+  CONTROLS, 
+  COLORS, 
+  BOARD_SIZE, 
+  GAME_MODES 
+} from './app.constants';
 
 @Component({
   selector: 'ngx-snake',
